@@ -1,1 +1,3 @@
-console.log('llego a la lógica');
+function saludarAlUsuario() {
+    alert('Bienvenido usuario!');
+}
